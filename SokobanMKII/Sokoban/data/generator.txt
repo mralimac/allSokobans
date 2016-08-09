@@ -1,0 +1,2 @@
+w,w,w,f,f,w,w
+w,w,f,f,f,f,w
